@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karunish</h1>
-<h3 align="center">First-Year B.Sc. Computer Science (AI) Student at Heriot-Watt University, Dubai</h3>
+<h3 align="center">Second-Year B.Sc. Computer Science (AI) Student at Heriot-Watt University, Dubai</h3>
 
 ---
 
