@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Karunish</h1>
+<div align="center"> <img src="https://github.com/user-attachments/assets/d1f03e83-e767-471f-8fe4-6cdcfeb1f4e4" alt="night" width=70% /> </div>
+
+<h1 align="center">Hello, you've reached karunish.</h1>
 <h3 align="center">Second-Year B.Sc. Computer Science (AI) Student at Heriot-Watt University, Dubai</h3>
 
 ---
 
-### 📫 How to Reach Me
+### How to actually reach me 📳
 
 - **Email:** karunishram.athi@gmail.com
 - **LinkedIn:** [karunishram-athi](https://www.linkedin.com/in/karunishram-athi/)
@@ -11,13 +13,13 @@
 
 ---
 
-### 🧾 My Resume
+### My Resume.
 
 - [Download CV](https://github.com/karunish/karunish/raw/refs/heads/main/KARUNISH%20CV.docx)
 
 ---
 
-### 🛠️ Languages & Tools
+### 👇 Languages & Tools I've worked with 👇
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -86,7 +88,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats because that's cool
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karunish&show_icons=true&locale=en" alt="Karunish's GitHub Stats" />
@@ -98,10 +100,10 @@
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - Full-stack web development
-- Data visualization techniques
+- Embedded systems and IOT
 
 ---
 
